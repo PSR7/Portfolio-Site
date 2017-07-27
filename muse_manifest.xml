@@ -1,0 +1,141 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://prashanthsinghrathore.com" resolutions="1x" timestamp="1501186429518">
+  <folder name="css">
+    <file name="site_global.css" crc="4216065034"/>
+    <file name="index.css" crc="436334613" ref="index"/>
+    <file name="iefonts_index.css" crc="319495796" ref="index"/>
+    <file name="work.css" crc="3942061347" ref="work"/>
+    <file name="iefonts_work.css" crc="3908241081" ref="work"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work"/>
+    <file name="museutils.js" crc="4216313831" ref="index:work"/>
+    <file name="whatinput.js" crc="86476730" ref="index:work"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:work"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:work"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:work"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="form_check.php" crc="154010282" ref="index"/>
+    <file name="form_throttle.php" crc="266437015" ref="index"/>
+    <file name="form_process.php" crc="512629711" ref="index"/>
+    <file name="form-u488.php" crc="3823380971" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index:work"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:work"/>
+    <file name="require.js" crc="3951022091" ref="index:work"/>
+  </folder>
+  <folder name="images">
+    <file name="untitled-1.gif" crc="463820946" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poster1.png" crc="3998540461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="desktop-u362.png" crc="173588330" ref="index"/>
+    <file name="bookshelf-crop-u876.png" crc="13531652" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tab-crop-u366.png" crc="28643336" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone.png" crc="212204441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pencil.png" crc="444831101" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="table.png" crc="132939325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="me-crop-u321.png" crc="36539262" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slit shadow 2 sharp.png" crc="510555609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb button-u642-fr.png" crc="4125772464" ref="index"/>
+    <file name="fb button-over.png" crc="215794950" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter button-normal.png" crc="4080664109" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter button-over.png" crc="293302" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="g- button-normal.png" crc="4178071905" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="g- button-over.png" crc="3906916428" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="be button-normal.png" crc="4086289776" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="be button-over.png" crc="22305761" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin button-u690-fr.png" crc="25315944" ref="index"/>
+    <file name="linkedin button-over.png" crc="490176971" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram button.png" crc="208408284" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram button-over.png" crc="3778169258" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scroll up-crop-u807.png" crc="4023534434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coffee-crop-u1059.png" crc="4016082326" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="laptop-crop-u1047.png" crc="4114262405" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="chart1.png" crc="3780638843" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="pencil1.png" crc="87076104" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="pencil2.png" crc="3880793979" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="chart2.png" crc="118125125" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="iphone.png" crc="3798706078" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="plain-crop-u1110.png" crc="4100973202" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="mouse-crop-u1053.png" crc="10412739" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="plain-crop-u1116.png" crc="4100973202" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="blue-print-crop-u1104.png" crc="4004751830" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="triangle scale.png" crc="3801954387" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="scale.png" crc="351193567" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="tab.png" crc="4117973274" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4201956876" seo="true" mt="1501186384627" redirect="true"/>
+  <file name="work.html" crc="348327731" seo="true" mt="1442413727657" redirect="true"/>
+</manifest>
